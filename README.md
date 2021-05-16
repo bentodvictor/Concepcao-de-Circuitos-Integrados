@@ -1,2 +1,2 @@
-# Concepcao-de-Circuitos-Integrados
-7º Semestre do curso de Engenharia da Computação - UFSM
+# Conception-of-Integrated-Circuits
+Conception of Integrated Circuits material from 7th semester of Computer
